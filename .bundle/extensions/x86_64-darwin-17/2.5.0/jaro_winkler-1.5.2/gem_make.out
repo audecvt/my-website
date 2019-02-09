@@ -1,0 +1,18 @@
+current directory: /Users/audecervantes/Desktop/my-website/.bundle/gems/jaro_winkler-1.5.2/ext/jaro_winkler
+/Users/audecervantes/.rvm/rubies/ruby-2.5.1/bin/ruby -r ./siteconf20190209-7648-mv8pqm.rb extconf.rb
+creating Makefile
+
+current directory: /Users/audecervantes/Desktop/my-website/.bundle/gems/jaro_winkler-1.5.2/ext/jaro_winkler
+make "DESTDIR=" clean
+
+current directory: /Users/audecervantes/Desktop/my-website/.bundle/gems/jaro_winkler-1.5.2/ext/jaro_winkler
+make "DESTDIR="
+compiling adj_matrix.c
+compiling codepoints.c
+compiling jaro.c
+compiling jaro_winkler.c
+linking shared-object jaro_winkler/jaro_winkler_ext.bundle
+
+current directory: /Users/audecervantes/Desktop/my-website/.bundle/gems/jaro_winkler-1.5.2/ext/jaro_winkler
+make "DESTDIR=" install
+/usr/local/opt/coreutils/bin/ginstall -c -m 0755 jaro_winkler_ext.bundle ./.gem.20190209-7648-h3affm/jaro_winkler
